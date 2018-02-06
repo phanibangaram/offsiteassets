@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Assets</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_179794_offsiteas_assets</name>
+        <number_ref display_value="AST">22df7e6edb0013009804d100cf9619d0</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Asset" name="alm_asset">1fb4dcf3a8033200a21c40382c84b8bf</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-06 06:48:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>322f76e6db0013009804d100cf96190b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Assets</sys_name>
+        <sys_package display_value="Offsiteassets" source="x_179794_offsiteas">7c499f11db0013009804d100cf961994</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Offsiteassets">7c499f11db0013009804d100cf961994</sys_scope>
+        <sys_update_name>sys_db_object_322f76e6db0013009804d100cf96190b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-06 06:48:02</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_179794_offsiteas.assets_user" name="x_179794_offsiteas.assets_user">92dfba6edb0013009804d100cf96194d</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
